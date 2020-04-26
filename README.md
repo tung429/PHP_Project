@@ -1,7 +1,7 @@
 # PHP_Project
 
-<b>Final Year Project of my Higher Diploma
-HTML, PHP, CSS, Javascript, mySQL</b>
+<b>Final Year Project of my Higher Diploma</b>
+<p>HTML, PHP, CSS, Javascript, mySQL</p>
 
 IoT for Online Shopping System - HKMall
 
