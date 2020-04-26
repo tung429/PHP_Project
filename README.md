@@ -2,7 +2,7 @@
 
 
 <b>IoT for Online Shopping System - HKMall</b>
-<b>Final Year Project of my Higher Diploma</b>
+<p><b>Final Year Project of my Higher Diploma</b></p>
 <p>HTML, PHP, CSS, Javascript, mySQL</p>
 
 
